@@ -78,4 +78,4 @@ async def help(ctx):
     
     await ctx.send(embed=embed)
 
-client.run('')
+client.run('BOT TOCKEN')
